@@ -1,4 +1,5 @@
 from django.shortcuts import render
+from django import forms
 from .forms import EmailForm
 import joblib
 
